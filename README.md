@@ -1,7 +1,7 @@
 ## hello-world
 
 ### App Description
-This app changes the color of the sentance "Hello From Abdo" after clicking the "change text button". 
+This app changes the color of the sentance "Hello From Abdo" after clicking the "change text button". The user can also change the color of the background view, change the string of label, reset all changes and update the string with a command keyboard. 
 
 ### App Walk-though
 https://i.imgur.com/z03fNAI.gifv
